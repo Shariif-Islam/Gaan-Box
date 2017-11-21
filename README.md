@@ -7,20 +7,7 @@ Gaan Box is a complete full track musical application consist of all categories 
 1. Play mp3 files from remote server.
 2. Search song, album and artist.
 3. Add song to favorite list.
-
-### Frameworks
-![1. Alamofire](https://github.com/Alamofire/Alamofire)
-
-![2. AlamofireImage](https://github.com/Alamofire/AlamofireImage)
-
-![3. SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
-
-![4. StreamingKit](https://github.com/tumtumtum/StreamingKit)
-
-![5. ImageSlideShow](https://github.com/zvonicek/ImageSlideshow)
-
-![6. LNPopupController](https://github.com/LeoNatan/LNPopupController)
-
+4. Play, pause, next, suffle, repeat-one.
 
 ### Screenshots
 ![screen shot 2017-11-21 at 23 00 47](https://user-images.githubusercontent.com/22715216/33085901-4567760a-cf10-11e7-996a-26ea529cc4e4.png)
