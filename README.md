@@ -1,7 +1,7 @@
 # Gaan Box 
 
 ### Overview
-Gaan box is a live streaming music application. It stream mp3 file from HTTP server. 
+Gaan Box is a complete full track musical application consist of all categories of Bangla music. It stream mp3 file from HTTP server. 
 
 ### Features
 1. Play mp3 files from remote server.
