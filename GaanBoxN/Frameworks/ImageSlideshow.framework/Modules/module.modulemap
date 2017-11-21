@@ -1,0 +1,4 @@
+framework module ImageSlideshow {
+    header "ImageSlideshow-Swift.h"
+    requires objc
+}
